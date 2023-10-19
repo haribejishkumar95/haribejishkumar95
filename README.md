@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haribejishkumar95
 - 👀 I’m passionate about programming and design of embedded and automation/control systems
-- 🌱 I’m currently learning through my research in different programming languages.
+- 🌱 I’m working as an Automation Engineer.
 - 💞️ I’m looking to collaborate on automation/embedded design and development
 - 📫 How to reach me is via linkedIn profile( www.linkedin.com/haribejishkumar95) or via email ( haribejishkumar95@gmail.com) or via mobile(0224920137)
 
